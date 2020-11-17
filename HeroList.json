@@ -1,5 +1,4 @@
 ﻿{
-  "result": [
     {
       "id": 30,
       "name": "Ant-Man",
@@ -170,5 +169,4 @@
       "name": "Wolverine",
       "image": "https://jslowinski.github.io/SuperHeroList/Images/Wolverine.png"
     }
-  ]
 }
